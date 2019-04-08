@@ -1,0 +1,27 @@
+.place1 {
+    width: 200px;
+    height: 380px;
+    background: #fff;
+    /* border-radius: 0px; */
+    box-shadow: 0 2px 5px #ccc;
+    /* margin-bottom: 20px;
+    padding: 50px 0px; */
+    float: left;
+    margin: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, h3, p {
+    margin-left:20px; 
+}
+
+table, tr, td {
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+}
